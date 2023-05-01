@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yassine0022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassine0022" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yassine-zakhama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassine-zakhama/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yassine_zakhama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yassine_zakhama/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yassine-zakhama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassine-zakhama/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yassine_zakhama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yassine_zakhama/" height="30" width="40" /></a>
 <a href="https://discord.gg/Yassine#7964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yassine#7964" height="30" width="40" /></a>
 </p>
 
