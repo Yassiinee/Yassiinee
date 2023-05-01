@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Life**
 
-- 👨‍💻 All of my projects are available at [github.com/Yassiinee](github.com/Yassiinee)
+- 👨‍💻 All of my projects are available at **github.com/Yassiinee**
 
 - 📫 How to reach me **zakhamayassine@gmail.com**
 
