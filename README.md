@@ -2,7 +2,6 @@
 <h3 align="center">Software Engineer</h3>
 <br>
 <br>
-<img align="right" alt="Coding" width="400" src="https://hacks.mozilla.org/files/2015/12/animation4.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassiinee&label=Profile%20views&color=0e75b6&style=flat" alt="yassiinee" /> </p>
 
