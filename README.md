@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine Zakhama</h1>
 <h3 align="center">Software Engineer</h3>
+<h5 align="center">C# .NET Backend Engineer</h5>
 <br>
-<br>
-
 <br>
 
 <p align="center">
@@ -26,8 +25,6 @@
 - 👨‍💻 All of my projects are available at **github.com/Yassiinee**
 - 📫 Reach me at **zakhamayassine@gmail.com**
 - ⚡ Fun fact: **Big change is due to the smallest impacts**
-
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
