@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yassine Zakhama</h1>
+<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a32a1bf8-49df-43b1-a859-5b4c697ea674" /><h1 align="center">Hi 👋, I'm Yassine Zakhama</h1>
 <h3 align="center">Software Engineer</h3>
 <h6 align="center">C# .NET Backend Engineer</h6>
 <br>
@@ -32,6 +32,9 @@
   </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
+  </a>
+  <a href="https://angular.dev" target="_blank" rel="noreferrer">
+    <img src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" alt="Angular" width="40" height="40" />
   </a>
 
   <!-- Databases -->
@@ -77,7 +80,7 @@
 
   <!-- APIs -->
   <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-    <img src="https://static1.smartbear.co/swagger/media/assets/images/swagger_logo.svg" alt="Swagger" width="40" height="40" />
+    <img src="https://www.svgrepo.com/show/354420/swagger.svg" alt="Swagger" width="40" height="40" />
   </a>
 </p>
 
