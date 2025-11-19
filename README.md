@@ -1,4 +1,3 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/a32a1bf8-49df-43b1-a859-5b4c697ea674" /><h1 align="center">Hi 👋, I'm Yassine Zakhama</h1>
 <h3 align="center">Software Engineer</h3>
 <h6 align="center">C# .NET Backend Engineer</h6>
 <br>
@@ -34,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" />
   </a>
   <a href="https://angular.dev" target="_blank" rel="noreferrer">
-    <img src="https://angular.dev/assets/images/press-kit/angular_wordmark_gradient.png" alt="Angular" width="40" height="40" />
+    <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" width="40" height="40" />
   </a>
 
   <!-- Databases -->
