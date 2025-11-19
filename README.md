@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine Zakhama</h1>
 <h3 align="center">Software Engineer</h3>
-<h5 align="center">C# .NET Backend Engineer</h5>
+<h6 align="center">C# .NET Backend Engineer</h6>
 <br>
-<br>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yassiinee&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
