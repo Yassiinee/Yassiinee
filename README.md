@@ -3,28 +3,30 @@
 <br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassiinee&label=Profile%20views&color=0e75b6&style=flat" alt="yassiinee" /> </p>
+<br>
 
-<p align="left"> <a href="https://www.linkedin.com/in/yassine-zakhama" target="blank"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yassiinee&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
- 🌱 I’m currently learning **Life**
+<p align="center">
+  <a href="https://www.linkedin.com/in/yassine-zakhama" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/8434169/yassine" target="_blank">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/yassine.zakhama.1/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+###
+- 🌱 I’m currently learning **Life**
 - 👨‍💻 All of my projects are available at **github.com/Yassiinee**
 - 📫 Reach me at **zakhamayassine@gmail.com**
 - ⚡ Fun fact: **Big change is due to the smallest impacts**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yassine0022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassine0022" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/yassine-zakhama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yassine-zakhama/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yassine_zakhama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yassine_zakhama/" height="30" width="40" /></a>
-<a href="https://discord.gg/Yassine#7964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yassine#7964" height="30" width="40" /></a>
-</p>
-
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/yassine-zakhama/)
-[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/8434169/yassine)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/yassine.zakhama.1/)
-<br>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
